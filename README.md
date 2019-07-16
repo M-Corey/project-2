@@ -1,1 +1,2 @@
-# project-2
+# project2
+coders_kiosk_bootcamp
